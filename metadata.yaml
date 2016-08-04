@@ -1,0 +1,36 @@
+_repo: Idle-Ideas-in-1905_3140
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '2002-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wit and humor'
+- GITenberg
+tableOfContents: Are we as interesting as we think we are? -- Should women be beautiful?
+  -- When is the best time to be merry? -- Do we lie a-bed too late? -- Should married
+  men play golf? -- Are early marriages a mistake? -- Do writers write too much? --
+  Should soldiers be polite? -- Ought stories to be true? -- Creatures that one day
+  shall be men -- How to be happy though little -- Should we say what we think, or
+  think what we say? -- Is the American husband made entirely of stained glass --
+  Does the young man know everything worth knowing? -- How many charms hath music,
+  would you say? -- The white man's burden! Need it be so heavy? -- Why didn't he
+  marry the girl? -- What Mrs. Wilkins thought about it -- Shall we be ruined by Chinese
+  cheap labour? -- How to solve the servant problem -- Why we hate the foreigner.
+title: Idle Ideas in 1905
+url: http://www.gutenberg.org/ebooks/3140
